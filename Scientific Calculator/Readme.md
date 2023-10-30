@@ -20,7 +20,8 @@ A simple web-based scientific calculator implemented using HTML, CSS, and JavaSc
 This calculator uses the Math.js library for mathematical evaluations.
 
 ## Author
-Sanjaybobbyhttps://github.com/Sanjaybobby
+[Sanjaybobby](https://github.com/Sanjaybobby)
+
 
 ## Acknowledgments
 - The Math.js library for mathematical functionality.
