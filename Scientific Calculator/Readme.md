@@ -19,6 +19,10 @@ A simple web-based scientific calculator implemented using HTML, CSS, and JavaSc
 ## Additional Notes
 This calculator uses the Math.js library for mathematical evaluations.
 
+## Output
+![image](https://github.com/Sanjaybobby/codealpha_tasks/assets/115866016/7320113f-4b16-4791-8263-8e3d40777b3f)
+
+
 ## Author
 [Sanjaybobby](https://github.com/Sanjaybobby)
 
