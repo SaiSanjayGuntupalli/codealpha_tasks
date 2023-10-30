@@ -23,5 +23,5 @@ This calculator uses the Math.js library for mathematical evaluations.
 Sanjay
 
 ## Acknowledgments
-The Math.js library for mathematical functionality.
-Inspiration from other open-source calculator projects.
+- The Math.js library for mathematical functionality.
+- Inspiration from other open-source calculator projects.
