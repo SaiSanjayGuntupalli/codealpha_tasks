@@ -10,8 +10,8 @@ This is a tribute website to honor the legendary cricketer, Mahendra Singh Dhoni
 - CSS
 
 ## Project Setup
-Clone this repository.
-Open the index.html file in your web browser.
+- Clone this repository.
+- Open the index.html file in your web browser.
 
 ## Webpage Preview
 ![Output](https://github.com/Sanjaybobby/codealpha_tasks/assets/115866016/5b721d20-854d-4e3f-b533-aa5c5731e0ab)
